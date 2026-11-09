@@ -1,0 +1,13 @@
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary / node files
+node_modules/
+*.log
+
+# Local agent symlinks (canonical files remain in .agents/)
+.claude/
+agent/
